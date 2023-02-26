@@ -137,8 +137,8 @@ a:hover {
 }
 
 .section-padding {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 b,
@@ -872,5 +872,22 @@ strong {
     width: 50px;
     height: 50px;
   }
+}
+
+.icon-logo{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.map-responsive iframe{
+
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+
 }
 
